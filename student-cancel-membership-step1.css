@@ -1,0 +1,742 @@
+/* screen - student-cancel-membership-step1 */
+
+.student-cancel-membership-step1 {
+  align-items: flex-start;
+  background-color: var(--eerie-black);
+  display: flex;
+  flex-direction: column;
+  height: 1577px;
+  width: 1920px;
+}
+
+.student-cancel-membership-step1 .loginstudent {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1920px;
+}
+
+.student-cancel-membership-step1 .overlap-group2 {
+  height: 90px;
+  position: relative;
+  width: 1920px;
+}
+
+.student-cancel-membership-step1 .group-1220 {
+  align-items: flex-end;
+  background-image: url(../img/path-1086@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 46px;
+  justify-content: flex-end;
+  left: 1428px;
+  min-width: 182px;
+  padding: 8px 11.7px;
+  position: absolute;
+  top: 22px;
+}
+
+.student-cancel-membership-step1 .upgrade-premium {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 27px;
+  min-width: 156px;
+  white-space: nowrap;
+}
+
+.student-cancel-membership-step1 .course {
+  left: 617px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 32px;
+  white-space: nowrap;
+}
+
+.student-cancel-membership-step1 .noschoolslifelogo {
+  height: 85px;
+  left: 287px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 228px;
+}
+
+.student-cancel-membership-step1 .group-1221 {
+  display: flex;
+  height: 46px;
+  left: 1356px;
+  position: absolute;
+  top: 22px;
+  width: 46px;
+}
+
+.student-cancel-membership-step1 .group-229 {
+  display: flex;
+  flex: 1;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  overflow: hidden;
+  width: 46px;
+}
+
+.student-cancel-membership-step1 .group-228 {
+  align-items: flex-end;
+  background-color: var(--eerie-black);
+  display: flex;
+  height: 46.896644592285156px;
+  min-width: 46.89664840698242px;
+  padding: 0 7.6px;
+}
+
+.student-cancel-membership-step1 .group-227 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 0;
+  min-width: 31px;
+}
+
+.student-cancel-membership-step1 .overlap-group1 {
+  height: 37px;
+  position: relative;
+  width: 31px;
+}
+
+.student-cancel-membership-step1 .path-42 {
+  height: 8px;
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 6px;
+}
+
+.student-cancel-membership-step1 .path-43 {
+  height: 22px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 31px;
+}
+
+.student-cancel-membership-step1 .path-44 {
+  height: 8px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.student-cancel-membership-step1 .path-45 {
+  height: 9px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 2px;
+}
+
+.student-cancel-membership-step1 .overlap-group {
+  height: 13px;
+  left: 9px;
+  position: absolute;
+  top: 9px;
+  width: 13px;
+}
+
+.student-cancel-membership-step1 .path-46 {
+  height: 7px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 13px;
+}
+
+.student-cancel-membership-step1 .group-224 {
+  height: 2px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 9px;
+}
+
+.student-cancel-membership-step1 .path-77 {
+  height: 8px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 7px;
+}
+
+.student-cancel-membership-step1 .group-225 {
+  background-image: url(../img/path-78@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  left: 2px;
+  position: absolute;
+  top: 6px;
+  width: 4px;
+}
+
+.student-cancel-membership-step1 .path-79 {
+  height: 2px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 3px;
+}
+
+.student-cancel-membership-step1 .path-80 {
+  height: 14px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.student-cancel-membership-step1 .top {
+  background-color: var(--shark);
+  height: 90px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.student-cancel-membership-step1 .courses {
+  left: 605px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 32px;
+  white-space: nowrap;
+}
+
+.student-cancel-membership-step1 .group-306 {
+  display: flex;
+  height: 55px;
+  left: 1555px;
+  position: absolute;
+  top: 18px;
+  width: 55px;
+}
+
+.student-cancel-membership-step1 .group-229-1 {
+  display: flex;
+  flex: 1;
+  margin-right: 0;
+  overflow: hidden;
+  width: 55px;
+}
+
+.student-cancel-membership-step1 .group-228-1 {
+  align-items: flex-end;
+  background-color: var(--eerie-black);
+  display: flex;
+  height: 56.071746826171875px;
+  min-width: 56.071746826171875px;
+  padding: 0 9.1px;
+}
+
+.student-cancel-membership-step1 .group-227-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-bottom: 0;
+  min-width: 38px;
+}
+
+.student-cancel-membership-step1 .overlap-group1-1 {
+  height: 44px;
+  position: relative;
+  width: 38px;
+}
+
+.student-cancel-membership-step1 .path-42-1 {
+  height: 10px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 34px;
+  width: 8px;
+}
+
+.student-cancel-membership-step1 .path-43-1 {
+  height: 26px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 18px;
+  width: 38px;
+}
+
+.student-cancel-membership-step1 .path-44-1 {
+  height: 10px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 34px;
+  width: 1px;
+}
+
+.student-cancel-membership-step1 .path-45-1 {
+  height: 11px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 2px;
+}
+
+.student-cancel-membership-step1 .overlap-group-1 {
+  height: 16px;
+  left: 11px;
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.student-cancel-membership-step1 .path-46-1 {
+  height: 9px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.student-cancel-membership-step1 .group-224-1 {
+  height: 3px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+
+.student-cancel-membership-step1 .path-77-1 {
+  height: 9px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 9px;
+}
+
+.student-cancel-membership-step1 .group-225-1 {
+  background-image: url(../img/path-78-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  left: 3px;
+  position: absolute;
+  top: 7px;
+  width: 5px;
+}
+
+.student-cancel-membership-step1 .path-79-1 {
+  height: 2px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 4px;
+}
+
+.student-cancel-membership-step1 .path-80-1 {
+  height: 16px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 22px;
+}
+
+.student-cancel-membership-step1 .group-1431 {
+  background-image: url(../img/icon-ionic-ios-search@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 18px;
+  left: 1364px;
+  position: absolute;
+  top: 35px;
+  width: 18px;
+}
+
+.student-cancel-membership-step1 .group-1432 {
+  background-image: url(../img/path-171@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 19px;
+  left: 1451px;
+  position: absolute;
+  top: 35px;
+  width: 19px;
+}
+
+.student-cancel-membership-step1 .cancel-membership {
+  letter-spacing: 0.30px;
+  line-height: 30px;
+  margin-left: 310px;
+  margin-top: 245px;
+  min-height: 44px;
+  white-space: nowrap;
+}
+
+.student-cancel-membership-step1 .text-50 {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: 310px;
+  margin-top: 24px;
+  min-height: 33px;
+  white-space: nowrap;
+}
+
+.student-cancel-membership-step1 .text-51 {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-right: 250.0px;
+  margin-top: 13px;
+  min-height: 30px;
+  min-width: 1050px;
+  white-space: nowrap;
+}
+
+.student-cancel-membership-step1 .flex-row {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 310px;
+  margin-top: 50px;
+  min-width: 463px;
+}
+
+.student-cancel-membership-step1 .button {
+  align-items: flex-end;
+  background-color: var(--indigo);
+  border-radius: 10px;
+  cursor: pointer;
+  display: flex;
+  height: 51px;
+  justify-content: flex-end;
+  min-width: 221px;
+  padding: 12px 10px;
+}
+
+.student-cancel-membership-step1 .label {
+  color: var(--white);
+  font-family: var(--font-family-noto_sans);
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 26px;
+  min-width: 198px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.student-cancel-membership-step1 .button-1 {
+  align-items: flex-start;
+  border: 2px solid var(--white);
+  border-radius: 10px;
+  cursor: pointer;
+  display: flex;
+  height: 51px;
+  margin-left: 19px;
+  min-width: 223px;
+  padding: 11px 7px;
+}
+
+.student-cancel-membership-step1 .label-1 {
+  color: var(--white);
+  font-family: var(--font-family-noto_sans);
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 26px;
+  min-width: 208px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.student-cancel-membership-step1 .overlap-group3 {
+  height: 826px;
+  margin-top: 171px;
+  position: relative;
+  width: 1920px;
+}
+
+.student-cancel-membership-step1 .wave {
+  height: 329px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1917px;
+}
+
+.student-cancel-membership-step1 .component-9-1 {
+  align-items: flex-start;
+  background-color: var(--shark);
+  display: flex;
+  height: 497px;
+  left: 0;
+  min-width: 1920px;
+  padding: 52px 319px;
+  position: absolute;
+  top: 329px;
+}
+
+.student-cancel-membership-step1 .group-1445 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 25.0px;
+  min-height: 282px;
+  width: 171px;
+}
+
+.student-cancel-membership-step1 .about {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 30px;
+  white-space: nowrap;
+}
+
+.student-cancel-membership-step1 .line-1 {
+  height: 3px;
+  margin-left: -1.5px;
+  margin-top: 11px;
+  object-fit: cover;
+  width: 44px;
+}
+
+.student-cancel-membership-step1 .group-634 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 15px;
+  min-height: 223px;
+  width: 173px;
+}
+
+.student-cancel-membership-step1 .about-us {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.student-cancel-membership-step1 .blog {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 6px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.student-cancel-membership-step1 .teachers-guide {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 6px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.student-cancel-membership-step1 .requiring {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 6px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.student-cancel-membership-step1 .faq {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 6px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.student-cancel-membership-step1 .privacy-policy {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 6px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.student-cancel-membership-step1 .terms-conditions {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 6px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.student-cancel-membership-step1 .group-1448 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 351px;
+  margin-left: 146px;
+  min-width: 503px;
+}
+
+.student-cancel-membership-step1 .group-1447 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 1px;
+  min-height: 183px;
+  width: 136px;
+}
+
+.student-cancel-membership-step1 .service {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 30px;
+  white-space: nowrap;
+}
+
+.student-cancel-membership-step1 .group-635 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 15px;
+  min-height: 124px;
+  width: 138px;
+}
+
+.student-cancel-membership-step1 .business {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.student-cancel-membership-step1 .cooperation {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 6px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.student-cancel-membership-step1 .refer-friends {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 6px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.student-cancel-membership-step1 .monthly-update {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 6px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.student-cancel-membership-step1 .flex-col {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -2px;
+  margin-left: 12px;
+  min-height: 353px;
+  width: 355px;
+}
+
+.student-cancel-membership-step1 .group-1446 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 114.0px;
+  min-height: 150px;
+  width: 125px;
+}
+
+.student-cancel-membership-step1 .social-media {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 30px;
+  white-space: nowrap;
+}
+
+.student-cancel-membership-step1 .line-20 {
+  height: 3px;
+  margin-left: -0.5px;
+  margin-top: 11px;
+  object-fit: cover;
+  width: 82px;
+}
+
+.student-cancel-membership-step1 .group-636 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 15px;
+  min-height: 91px;
+  width: 87px;
+}
+
+.student-cancel-membership-step1 .facebook {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.student-cancel-membership-step1 .instagram {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 6px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.student-cancel-membership-step1 .you-tube {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 6px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.student-cancel-membership-step1 .text-49 {
+  color: var(--white);
+  font-family: var(--font-family-pingfangtc-thin);
+  font-size: var(--font-size-s);
+  font-weight: 100;
+  letter-spacing: 0;
+  line-height: 12px;
+  margin-top: 184px;
+  min-height: 19px;
+  min-width: 355px;
+  white-space: nowrap;
+}
+
+.student-cancel-membership-step1 .noschoolslifelogo-1 {
+  height: 128px;
+  margin-left: 110px;
+  margin-top: 18px;
+  object-fit: cover;
+  width: 128px;
+}

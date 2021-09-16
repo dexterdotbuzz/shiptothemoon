@@ -1,0 +1,172 @@
+/* screen - student-7days-free-payment-page-success */
+
+.student-7days-free-payment-page-success {
+  align-items: center;
+  background-color: #15161d;
+  display: flex;
+  flex-direction: column;
+  height: 1175px;
+  padding: 0.5px 0;
+  width: 1920px;
+}
+
+.student-7days-free-payment-page-success .x4 {
+  align-items: center;
+  background-image: url(../img/top-@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 90px;
+  min-width: 1920px;
+  padding: 0 287px;
+}
+
+.student-7days-free-payment-page-success .noschoolslifelogo {
+  align-self: flex-start;
+  height: 85px;
+  object-fit: cover;
+  width: 228px;
+}
+
+.student-7days-free-payment-page-success .text-54 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 102px;
+  margin-top: 1.0px;
+  min-height: 27px;
+  min-width: 38px;
+  white-space: nowrap;
+}
+
+.student-7days-free-payment-page-success .group-1427 {
+  background-image: url(../img/icon-ionic-ios-search@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 18px;
+  margin-bottom: 1.65px;
+  margin-left: 544px;
+  width: 18px;
+}
+
+.student-7days-free-payment-page-success .group-1428 {
+  background-image: url(../img/path-171@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 19px;
+  margin-bottom: 1.0px;
+  margin-left: 70px;
+  width: 19px;
+}
+
+.student-7days-free-payment-page-success .text-52 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 69px;
+  margin-top: 1.0px;
+  min-height: 27px;
+  min-width: 38px;
+  white-space: nowrap;
+}
+
+.student-7days-free-payment-page-success .overlap-group {
+  align-items: flex-end;
+  background-color: var(--indigo);
+  border-radius: 10px;
+  display: flex;
+  height: 46px;
+  justify-content: flex-end;
+  margin-left: 31px;
+  min-width: 168px;
+  padding: 9px 45.6px;
+}
+
+.student-7days-free-payment-page-success .text-53 {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 27px;
+  min-width: 74px;
+  white-space: nowrap;
+}
+
+.student-7days-free-payment-page-success .text-55 {
+  color: var(--white);
+  font-family: var(--font-family-pingfangtc-medium);
+  font-size: 36px;
+  font-weight: 500;
+  height: 102px;
+  letter-spacing: 0;
+  line-height: 36px;
+  margin-left: 2.0px;
+  margin-top: 175px;
+  text-align: center;
+  width: 646px;
+}
+
+.student-7days-free-payment-page-success .line-49 {
+  height: 1px;
+  margin-left: 1.0px;
+  margin-top: 25px;
+  object-fit: cover;
+  width: 374px;
+}
+
+.student-7days-free-payment-page-success .text-56 {
+  color: var(--white);
+  font-family: var(--font-family-pingfangtc-medium);
+  font-size: 15px;
+  font-weight: 500;
+  height: 51px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 2.0px;
+  margin-top: 22px;
+  width: 376px;
+}
+
+.student-7days-free-payment-page-success .group-1429 {
+  cursor: pointer;
+  height: 62px;
+  margin-top: 30px;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+  width: 374px;
+}
+
+.student-7days-free-payment-page-success .group-1429:hover {
+  transform: scale(1.1);
+}
+
+.student-7days-free-payment-page-success .overlap-group1 {
+  height: 62px;
+  position: relative;
+}
+
+.student-7days-free-payment-page-success .area {
+  cursor: pointer;
+  height: 62px;
+  left: 0;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 374px;
+}
+
+.student-7days-free-payment-page-success .area:hover {
+  transform: scale(1.1);
+}
+
+.student-7days-free-payment-page-success .label {
+  color: var(--white);
+  font-family: var(--font-family-noto_sans);
+  font-size: 24px;
+  font-weight: 600;
+  left: 138px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  white-space: nowrap;
+}
